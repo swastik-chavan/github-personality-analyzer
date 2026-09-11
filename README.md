@@ -1,4 +1,5 @@
-<!-- HEADER -->
+# GitHub Personality Analyzer
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=180&section=header&text=GitHub%20Personality%20Analyzer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -12,7 +13,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/24/ffffff/github.png"/> GitHub Personality Analyzer
+## <img src="https://img.icons8.com/color/24/000000/github.png"/> GitHub Personality Analyzer
 
 <p align="center">
   <b>Transform GitHub profiles into personality insights, developer behavior, and shareable identity.</b>
@@ -20,7 +21,7 @@
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/document.png"/> Overview
+## <img src="https://img.icons8.com/color/20/000000/document.png"/> Overview
 
 GitHub Personality Analyzer converts public GitHub activity into meaningful insights:
 
@@ -34,7 +35,7 @@ Built as a vibecoded project, combining creativity, experimentation, and logic.
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/idea.png"/> Why This Project
+## <img src="https://img.icons8.com/color/20/000000/light-on.png"/> Why This Project
 
 Most tools show numbers.
 This project focuses on interpreting the developer behind the code.
@@ -47,17 +48,17 @@ It helps answer:
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/rocket.png"/> Features
+## <img src="https://img.icons8.com/color/20/000000/rocket.png"/> Features
 
-- Analyze any public GitHub profile
-- Real-time GitHub API integration
-- Personality & behavior insights
-- Custom metrics (Aura, Chaos, Energy)
-- Downloadable shareable cards
+- <img src="https://img.icons8.com/color/16/000000/user.png"/> Analyze any public GitHub profile
+- <img src="https://img.icons8.com/color/16/000000/lightning-bolt.png"/> Real-time GitHub API integration
+- <img src="https://img.icons8.com/color/16/000000/idea.png"/> Personality & behavior insights
+- <img src="https://img.icons8.com/color/16/000000/combo-chart.png"/> Custom metrics (Aura, Chaos, Energy)
+- <img src="https://img.icons8.com/color/16/000000/download.png"/> Downloadable shareable cards
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/picture.png"/> Screenshots
+## <img src="https://img.icons8.com/color/24/000000/picture.png"/> Screenshots
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d80b1cc-d0ff-41ac-a321-d5d5be9b55aa" width="32%" />
@@ -73,7 +74,7 @@ It helps answer:
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/workflow.png"/> How It Works
+## <img src="https://img.icons8.com/color/20/000000/workflow.png"/> How It Works
 
 ```mermaid
 graph LR
@@ -86,7 +87,7 @@ graph LR
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/folder-invoices.png"/> Project Structure
+## <img src="https://img.icons8.com/color/24/000000/folder.png"/> Project Structure
 
 ```
 github-personality-analyzer/
@@ -129,10 +130,10 @@ github-personality-analyzer/
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/console.png"/> Installation
+## <img src="https://img.icons8.com/color/24/000000/console.png"/> Installation
 
 ```bash
-git clone https://github.com/theswaxtik/github-personality-analyzer.git
+git clone https://github.com/swastik-chavan/github-personality-analyzer.git
 
 cd github-personality-analyzer
 
@@ -143,7 +144,7 @@ npm run dev
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/play.png"/> Usage
+## <img src="https://img.icons8.com/color/24/000000/play-button.png"/> Usage
 
 1. Enter a GitHub username
 2. Click Analyze
@@ -152,7 +153,7 @@ npm run dev
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/bug.png"/> Current Issues
+## <img src="https://img.icons8.com/color/24/000000/bug.png"/> Current Issues
 
 - Improper text alignment in downloaded cards
 - UI spacing inconsistencies across components
@@ -163,7 +164,7 @@ npm run dev
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/source-code.png"/> Contributing
+## <img src="https://img.icons8.com/color/24/000000/source-code.png"/> Contributing
 
 Contributions are welcome.
 
@@ -185,7 +186,7 @@ git push origin feature/your-feature
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/goal.png"/> Roadmap
+## <img src="https://img.icons8.com/color/24/000000/target.png"/> Roadmap
 
 - Expand personality dataset significantly
 - Improve UI/UX consistency
@@ -195,20 +196,20 @@ git push origin feature/your-feature
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/conference-call.png"/> Credits
+## <img src="https://img.icons8.com/color/24/000000/link.png"/> Credits
 
 - Swastik (TechX) — Developer
 - Claude AI — Logic & refinement
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/certificate.png"/> License
+## <img src="https://img.icons8.com/color/24/000000/document.png"/> License
 
 MIT License
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/like.png"/> Support
+## <img src="https://img.icons8.com/color/24/000000/thumbs-up.png"/> Support
 
 <p align="center">
   <img src="https://img.shields.io/badge/Star-Repository-black?style=for-the-badge&logo=github"/>
@@ -218,7 +219,7 @@ MIT License
 
 ---
 
-## <img src="https://img.icons8.com/ios-filled/20/ffffff/book.png"/> Final Note
+## <img src="https://img.icons8.com/color/24/000000/book.png"/> Final Note
 
 <p align="center">
   <b>Your GitHub profile reflects more than code — it reflects your developer identity.</b>
